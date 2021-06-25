@@ -61,7 +61,7 @@
     "ngx-breadcrumbs": "0.0.3",
     "ngx-textarea-autosize": "^2.0.0",
     "npm": "^7.0.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^6.0.1",
     "rxjs": "^6.3.3",
     "rxjs-compat": "^6.3.3",
     "sass": "^1.15.1",
